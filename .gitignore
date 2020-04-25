@@ -1,4 +1,6 @@
 build-scons
+build
+dist
 .ipynb_checkpoints
 *.egg-info
 *~
@@ -10,3 +12,4 @@ build-scons
 */doc/latex/
 options.py
 /.project
+.DS_Store
